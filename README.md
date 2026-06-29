@@ -1,4 +1,4 @@
-# My Linux Journey
+# My Linux And Python Automation Journey
 
 ## About Me
 - Name: Muhammad Rabi
